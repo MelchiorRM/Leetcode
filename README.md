@@ -12,3 +12,4 @@
 | 0020 | Valid Parentheses |    https://leetcode.com/problems/valid-parentheses/  || 0021 | Merge Two Sorted Lists |
 | 0026 | Remove Duplicates From Sorted Array |
 | 0027 | Remove Element |
+| 0028 | Find the Index of the First Occurrence |
