@@ -14,3 +14,4 @@
 | 0027 | Remove Element |
 | 0028 | Find the Index of the First Occurrence |
 | 0035 | Search insert Position |
+| 0058 | Length of Last Word |
