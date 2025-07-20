@@ -18,3 +18,4 @@
 | 0066 | Plus One |
 | 0067 | Add Binary |
 | 0069 | Sqrt(x) |
+| 0070 | Climbing Stairs |
