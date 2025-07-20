@@ -17,3 +17,4 @@
 | 0058 | Length of Last Word |
 | 0066 | Plus One |
 | 0067 | Add Binary |
+| 0069 | Sqrt(x) |
