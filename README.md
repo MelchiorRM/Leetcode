@@ -19,3 +19,4 @@
 | 0067 | Add Binary |
 | 0069 | Sqrt(x) |
 | 0070 | Climbing Stairs |
+| 0083 | Remove Duplicates |
